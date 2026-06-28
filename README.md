@@ -64,7 +64,7 @@ class Harshit jindal:
 # Featured Projects
 
 ## 🤖 Synox AI
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1400"/>
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"/>
 
 Production-ready AI platform with RAG, AI Agents, semantic search and automation.
 
