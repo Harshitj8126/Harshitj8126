@@ -14,15 +14,44 @@ Building production-ready AI products powered by **LLMs, RAG, AI Agents, LangCha
 
 ---
 
-# About Me
+## 🧠 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```python
-class HarshitJindal:
-    role="AI Engineer"
-    focus=["LLMs","RAG","AI Agents","LangChain","LangGraph","Machine Learning","Full Stack"]
-    building=["Synox AI","Omni AI","Forexa","Cinematic Portfolio"]
-    mission="Build intelligent software that solves real-world problems."
+class Harshit jindal:
+
+    role = "AI Engineer"
+
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "LLMs",
+        "RAG Systems",
+        "AI Agents",
+        "Automation"
+    ]
+      building=["Synox AI"
+                ,"Omni AI",
+                 "Raftra.in",
+                 "Forexa",
+                  "Cinematic Portfolio"]
+
+      mission="Build intelligent software that solves real-world problems."
 ```
+
+## 🚀 Current Focus
+
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200" />
+
+* 🤖 Agentic AI & Multi-Agent Systems
+* 🧠 RAG, Vector Databases & Knowledge Systems
+* 🔗 LangChain, LangGraph & AI Workflows
+* ⚡ AI Automation & AI Agents
+* 🧩 LLM Applications & Production AI Products
+* ☁️ Full-Stack AI Engineering (Next.js, FastAPI, PostgreSQL)
+* 📈 Machine Learning & MLOps
+* 🚀 Building AI Startups & Developer Tools
 
 # Tech Stack
 
@@ -92,12 +121,22 @@ Apple-inspired cinematic developer portfolio.
 ```html
 <img src="https://raw.githubusercontent.com/Harshitj8126/Harshitj8126/output/github-contribution-grid-snake.svg"/>
 ```
+## 🏆 Philosophy
 
-# Connect
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
 
-- LinkedIn: https://www.linkedin.com/in/harshitjindal-ai/
-- Email: harshitjindal0203@gmail.com
-- GitHub: https://github.com/Harshitj8126
+> Build Systems.
+> Build Leverage.
+> Build Products.
+> Build The Future.
+
+
+# 🌐 Connect With Me
+
+💼 LinkedIn : https://www.linkedin.com/in/harshitjindal-ai/
+📧 Email: harshitjindal0203@gmail.com
+💻 GitHub: https://github.com/Harshitj8126
+🌍 Portfolio : https://portfolio-taupe-omega-61.vercel.app
 
 > *Build with curiosity. Engineer with precision. Scale with AI.*
 
