@@ -4,11 +4,13 @@
 
 Building production-ready AI products powered by **LLMs, RAG, AI Agents, LangChain, LangGraph, FastAPI, Next.js, Docker, PostgreSQL and Qdrant**.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Applications;LLMs+%7C+RAG+%7C+AI+Agents;LangChain+%7C+LangGraph+%7C+FastAPI;Next.js+%7C+TypeScript+%7C+PostgreSQL;Turning+Ideas+Into+Scalable+Products"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Products;Creating+Autonomous+Agents;Machine+Learning+Engineer;Future+Tech+Entrepreneur;Automating+The+Future" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111111,100:444444&section=header"/>
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Jwbm9vYTNvZm4ybDhkOW81bGprMXhyc3J4ejBkM3lqOXJqN3BqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="850"/>
+
+</div>
 
 ---
 
