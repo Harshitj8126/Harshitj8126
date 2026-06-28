@@ -134,8 +134,11 @@ Apple-inspired cinematic developer portfolio.
 # 🌐 Connect With Me
 
 💼 LinkedIn : https://www.linkedin.com/in/harshitjindal-ai/
+
 📧 Email: harshitjindal0203@gmail.com
+
 💻 GitHub: https://github.com/Harshitj8126
+
 🌍 Portfolio : https://portfolio-taupe-omega-61.vercel.app
 
 > *Build with curiosity. Engineer with precision. Scale with AI.*
